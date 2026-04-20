@@ -1,1 +1,1 @@
-[](https://github.com/ageron/handson-ml2/tree/master)
+[Tap to see](https://github.com/ageron/handson-ml2/tree/master)
